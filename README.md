@@ -12,10 +12,15 @@ As classes foram criadas de acordo com o diagrama abaixo:
 
 ![Diagrama classes](Imagens/diagrama.png)
 
-# :hammer: Regras e validações
+## Regras e validações
 1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
 2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
-## Solução
+# :hammer: Solução
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
 
