@@ -1,7 +1,7 @@
 # Bootcamp Dio - Coding The Future Avanade .NET Developer - Criando um Sistema e Abstraindo um Celular com POO em C#.
 
  > ℹ️ **Note** Desafio de projeto
-Um projeto simples que visa apenas aplicar os conhecimentos adquiridos no módulo de orientação a objetos.Desta forma não possui implementações avançadas de seus métodos ou acressímo de classes para compor um cenário mais realista. 
+Um projeto simples que visa apenas aplicar os conhecimentos adquiridos no módulo de orientação a objetos.Desta forma não possui implementações avançadas de seus métodos ou acréssimo de classes para compor um cenário mais realista. 
 
 ## 🎯 Contexto
 Objetivo de  modelar um sistema que trabalha com celulares. Para isso, foi solicitado que se faça uma abstração de um celular e disponibilize maneiras de diferentes de  marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
