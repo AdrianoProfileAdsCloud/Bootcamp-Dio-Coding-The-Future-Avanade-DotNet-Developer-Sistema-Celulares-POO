@@ -19,12 +19,12 @@ As classes foram criadas de acordo com o diagrama abaixo:
 
 # :hammer: Solução
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Smartphone.png)
-- `Funcionalidade 2`: descrição da funcionalidade 2
--  ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Iphone.png)
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Nokia.png)
-- `Funcionalidade 3`: descrição da funcionalidade 3
-- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/ProgramCS.png)
+- `Classe Smartphone`: Base para demais classes que a estenda.
+ ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Smartphone.png)
+- `Classe Iphone`: Implementa a estrutura para o Smartphone do tipo Iphone estendendo da classe Samartphone.
+  ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Iphone.png)
+- `Classe Nokia`: Implementa a estrutura para o Smartphone do tipo Nokia estendendo da classe Samartphone.
+  ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Nokia.png)
+- `Program.cs`: Criar os Smartphones de acordo com as implementações anteriores.
+ ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/ProgramCS.png)
 
