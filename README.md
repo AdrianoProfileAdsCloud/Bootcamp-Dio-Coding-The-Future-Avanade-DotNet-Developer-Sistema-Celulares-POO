@@ -20,7 +20,11 @@ As classes foram criadas de acordo com o diagrama abaixo:
 # :hammer: Solução
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
+- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Smartphone.png)
 - `Funcionalidade 2`: descrição da funcionalidade 2
+-  ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Iphone.png)
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/class%20Nokia.png)
 - `Funcionalidade 3`: descrição da funcionalidade 3
+- ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Avanade-DotNet-Developer-Sistema-Celulares-POO/blob/main/Imagens/ProgramCS.png)
 
